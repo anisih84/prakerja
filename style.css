@@ -1,0 +1,56 @@
+body {
+  height: 3000px;
+}
+.jumbotron {
+  padding-top: 40px;
+  margin-bottom: 10px;
+  background-color: rgb(149, 149, 229);
+  background-color: rgb(149, 149, 229);
+  color: white;
+  font-family: 'Tiro Devanagari Hindi', serif;
+}
+.about {
+  padding-top: 80px;
+  font-family: 'Tiro Devanagari Hindi', serif;
+  margin-bottom: 20px;
+}
+.portofolio {
+  padding-top: 80px;
+  font-family: 'Tiro Devanagari Hindi', serif;
+  background-color: rgb(149, 149, 229);
+  padding-bottom: 30px;
+}
+.blog {
+  padding-top: 80px;
+  font-family: 'Tiro Devanagari Hindi', serif;
+  padding-bottom: 30px;
+}
+.team {
+  padding-top: 80px;
+  font-family: 'Tiro Devanagari Hindi', serif;
+  background-color: rgb(149, 149, 229);
+  padding-bottom: 30px;
+}
+.tulisan {
+  font-size: 30px;
+  font-weight: bold;
+}
+.icon {
+  font-size: 30px;
+  font-weight: bold;
+}
+.contactus {
+  padding-top: 80px;
+  font-family: 'Tiro Devanagari Hindi', serif;
+  padding-bottom: 30px;
+}
+.foot {
+  background-color: rgb(0, 2, 97);
+  color: white;
+  font-family: 'Tiro Devanagari Hindi', serif;
+  padding: 0;
+  margin-bottom: 0;
+}
+.logo {
+  padding: 20px;
+}
